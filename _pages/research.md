@@ -8,8 +8,8 @@ author_profile: true
 
 ## Publications
 
-1.  Chen Liang, Ji Wu, and Xinxin Li. [Do ‘Likes’ in a Brand Community Always Make You Buy More?]*Information Systems Research* (Conditionally accepted).
-2.  Chen Liang, Yili Hong, and Bin Gu. [Does Monitoring Alleviate the ‘Cold Start’ Problem in Digital Platforms? Evidence from New Worker Entry in Online Labor Markets ] *Information Systems Research* (Conditionally accepted).
+1.  Chen Liang, Ji Wu, and Xinxin Li. Do ‘Likes’ in a Brand Community Always Make You Buy More? *Information Systems Research* (Conditionally accepted).
+2.  Chen Liang, Yili Hong, and Bin Gu. Does Monitoring Alleviate the ‘Cold Start’ Problem in Digital Platforms? Evidence from New Worker Entry in Online Labor Markets. *Information Systems Research* (Conditionally accepted).
 3.  Jingbo Hou\*, Chen Liang\*, Pei-yu Chen, and Bin Gu. Can Telework Adjustment Help Reduce Disaster-Induced Gender Gap in Job Market Outcomes? *Information Systems Research* (Conditionally accepted). (* These authors contributed equally)
 4.  Jing Peng and Chen Liang (2023) [On the Differences Between View-Based and Purchase-Based Recommender Systems](https://misq.umn.edu/on-the-differences-between-view-based-and-purchase-based-recommender-systems.html). *MIS Quarterly*, 47(2):875-900.
 5.  Chen Liang, Yili Hong, Pei-yu Chen, and Benjamin Shao (2022) [The Screening Role of Design Parameters for Service Procurement Auctions in Online Service Outsourcing Platforms](https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.1168). *Information Systems Research*,33(4), 1324-1343.
