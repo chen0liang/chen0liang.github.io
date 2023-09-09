@@ -21,7 +21,7 @@ author_profile: true
 ## Selected Working Papers
 
 -   Chen Liang, Yili Hong, and Bin Gu. Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring. Major revision at *Information Systems Research*.
--   Jingbo Hou, Chen Liang, and Pei-yu Chen. Local vs. Social: How Social Information Intensity Shapes Preventive Behavior in the Context of COVID-19. Minor revision at *Information Systems Research*.
+-   Jingbo Hou, Chen Liang, and Pei-yu Chen. Local vs. Social: How Social Information Intensity Shapes Preventive Behavior in the Context of COVID-19. Minor revision at *Production and Operations Management*.
 -   Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Impact of Medical AI on Drug Purchases. Under review.
 -   Chen Liang, Murat Tunç, and Gordon Burtch. Market Punishment of Strategic Generosity: An Empirical Examination of NFT Charity Auctions.
 -   Xinru Wang, Chen Liang, and Ming Yin. Effects of AI Biases and Explanations on Human Decision Fairness: A Case Study in Rental Markets.
