@@ -27,5 +27,5 @@ author_profile: true
 -   Xinru Wang, Chen Liang, and Ming Yin. Effects of AI Biases and Explanations on Human Decision Fairness: A Case Study in Rental Markets.
 -   Chen Liang, Bowen Lou, Mengwei Qu. COVID-19 and Platform Switching of Multihoming Workers in the Gig Economy.
 -   Stan (Chenbo) Shi, and Chen Liang. Breaking the Glass Ceiling or Breaking Trust: How Does a Female Fraudster Affect Crowdfunding for Female Entrepreneurs?
--   Tong Shen, Chen Liang, Chunxiao Li, Shuliu Yuan, and Bin Gu. Stimulating Consumption on a Limited Budget with AI vs. Human: Evidence from A Large-Scale Randomized Field Experiment.
+-   Tong Shen, Chen Liang, Chunxiao Li, Shuliu Yuan, and Bin Gu. AI Versus Human Decision-Making: Evidence from A Large-Scale Randomized Field Experiment.
 
