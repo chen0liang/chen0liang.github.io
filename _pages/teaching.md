@@ -8,7 +8,7 @@ title: "Teaching"
 
 OPIM 5603 introduces you to the concepts of population and sample; the difference between population parameters and sample statistics, and how to draw an inference from known sample statistics to usually unknown population parameters. Topics include: descriptive and inferential statistics, data visualization, discrete and continuous random variables, sampling, probability, confidence intervals, hypothesis testing, linear regression, and logistic regression. 
 
-Objectives: 1)	Conceptually understand key topics in statistical inference (e.g., sampling, probability, confidence intervals); 2)	Practical application of R for data analysis and visualization, statistical hypothesis tests, and regressions
+Objectives: 1)	Conceptually understand key topics in statistical inference (e.g., sampling, probability, confidence intervals); 2)	Practical application of R for data analysis and visualization, statistical hypothesis tests, and regressions.
 
 ## OPIM 3103 -- Business Information Systems (Undergraduate Level)
 
