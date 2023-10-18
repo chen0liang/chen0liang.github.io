@@ -4,6 +4,8 @@ permalink: /award/
 title: "Awards"
 ---
 
+-   ISS Gordon B. Davis Young Scholar Award, 2023
+-   INFORMS eBusiness Best Paper Award Runner-up, 2023
 -   Best Research Paper Award, UConn School of Business, 2023
 -   Research Excellence Program Fund, University of Connecticut, 2022
 -   Best Paper in Track Award (IS and the Future of Work Track), International Conference on Information Systems, 2021
