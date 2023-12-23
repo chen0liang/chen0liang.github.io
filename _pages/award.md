@@ -4,6 +4,7 @@ permalink: /award/
 title: "Awards"
 ---
 
+-   AIS Early Career Award, 2023
 -   ISS Gordon B. Davis Young Scholar Award, 2023
 -   INFORMS eBusiness Best Paper Award Runner-up, 2023
 -   Best Research Paper Award, UConn School of Business, 2023
