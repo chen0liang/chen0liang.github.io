@@ -8,9 +8,9 @@ author_profile: true
 
 ## Publications
 
-1.  Chen Liang, Ji Wu, and Xinxin Li. Do ‘Likes’ in a Brand Community Always Make You Buy More? *Information Systems Research* (Forthcoming).
-2.  Jingbo Hou\*, Chen Liang\*, Pei-yu Chen\*, and Bin Gu. Can Telework Adjustment Help Reduce Disaster-Induced Gender Gap in Job Market Outcomes? *Information Systems Research* (Forthcoming). (* These authors contributed equally)
-3.  Chen Liang, Yili Hong, and Bin Gu. Does Monitoring Alleviate the ‘Cold Start’ Problem in Digital Platforms? Evidence from New Worker Entry in Online Labor Markets. *Information Systems Research* (Conditionally accepted).
+1.  Chen Liang, Ji Wu, and Xinxin Li. [Do ‘Likes’ in a Brand Community Always Make You Buy More?](https://doi.org/10.1287/isre.2022.0008). *Information Systems Research* (2023).
+2.  Jingbo Hou\*, Chen Liang\*, Pei-yu Chen\*, and Bin Gu. [Can Telework Adjustment Help Reduce Disaster-Induced Gender Gap in Job Market Outcomes?](https://pubsonline.informs.org/doi/10.1287/isre.2023.0241). *Information Systems Research* (2023). (* These authors contributed equally)
+3.  Chen Liang, Yili Hong, and Bin Gu. Does Monitoring Alleviate the ‘Cold Start’ Problem in Digital Platforms? Evidence from New Worker Entry in Online Labor Markets. *Information Systems Research* (Forthcoming).
 4.  Chen Liang, Yili Hong, and Bin Gu. Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring. *Information Systems Research* (Conditionally accepted).
 5.  Jing Peng and Chen Liang (2023) [On the Differences Between View-Based and Purchase-Based Recommender Systems](https://misq.umn.edu/on-the-differences-between-view-based-and-purchase-based-recommender-systems.html). *MIS Quarterly*, 47(2):875-900.
 6.  Chen Liang, Yili Hong, Pei-yu Chen, and Benjamin Shao (2022) [The Screening Role of Design Parameters for Service Procurement Auctions in Online Service Outsourcing Platforms](https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.1168). *Information Systems Research*, 33(4), 1324-1343.
@@ -21,7 +21,7 @@ author_profile: true
 
 ## Selected Working Papers
 
--   Jingbo Hou, Chen Liang, and Pei-yu Chen. Local vs. Social: How Social Information Intensity Shapes Preventive Behavior in the Context of COVID-19. Minor revision at *Production and Operations Management*.
+-   Jingbo Hou, Chen Liang, and Pei-yu Chen. Local vs. Social: How Social Information Intensity Shapes Preventive Behavior in the Context of COVID-19. Conditionally accepted at *Production and Operations Management*.
 -   Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Impact of Medical AI on Drug Purchases. Under review.
 -   Chen Liang, Murat Tunç, and Gordon Burtch. Market Punishment of Strategic Generosity: An Empirical Examination of NFT Charity Auctions.
 -   Xinru Wang, Chen Liang, and Ming Yin. Effects of AI Biases and Explanations on Human Decision Fairness: A Case Study in Rental Markets.
