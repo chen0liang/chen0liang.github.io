@@ -22,7 +22,7 @@ author_profile: true
 
 ## Selected Working Papers
 
--   Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Impact of Medical AI on Drug Purchases. Under review.
+-   Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Impact of Medical AI on Drug Purchases. 
 -   Chen Liang, Murat Tunç, and Gordon Burtch. Market Punishment of Strategic Generosity: An Empirical Examination of NFT Charity Auctions.
 -   Xinru Wang, Chen Liang, and Ming Yin. Effects of AI Biases and Explanations on Human Decision Fairness: A Case Study in Rental Markets.
 -   Chen Liang, Bowen Lou, Mengwei Qu. COVID-19 and Platform Switching of Multihoming Workers in the Gig Economy.
