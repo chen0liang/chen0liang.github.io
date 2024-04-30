@@ -4,6 +4,7 @@ permalink: /award/
 title: "Awards"
 ---
 
+-   ACM CHI (Conference on Human Factors in Computing Systems, a premier conference on HCI) Best Paper Honorable Mention Award, 2024
 -   AIS Early Career Award, 2023
 -   ISS Gordon B. Davis Young Scholar Award, 2023
 -   INFORMS eBusiness Best Paper Award Runner-up, 2023
