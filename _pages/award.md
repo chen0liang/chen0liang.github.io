@@ -5,6 +5,7 @@ title: "Awards"
 ---
 
 -   Dean's Ackerman Scholar, UConn School of Business, 2024
+-   Best Paper Nominee, China Summer Workshop on Information Management (CSWIM), 2024
 -   ACM CHI (Conference on Human Factors in Computing Systems, a premier conference on HCI) Best Paper Honorable Mention Award, 2024
 -   AIS Early Career Award, 2023
 -   ISS Gordon B. Davis Young Scholar Award, 2023
