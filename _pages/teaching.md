@@ -18,6 +18,12 @@ OPIM 5603 introduces you to the concepts of population and sample; the differenc
 
 Objectives: 1)	Conceptually understand key topics in statistical inference (e.g., sampling, probability, confidence intervals); 2)	Practical application of R for data analysis and visualization, statistical hypothesis tests, and regressions.
 
+## OPIM 3203 -- Analytics for Business Intelligence  (Undergraduate Level)
+
+OPIM 3203 introduces you to foundational programming techniques and data analytics skills essential for leveraging the power of data in today's business environment. It is designed for students new to programming, with a focus on Python and its applications in data analysis. The course aims to provide hands-on experience and develop the analytical skills required for effective decision-making in today’s data-driven landscape.
+
+Objectives: 1) Introduction to Python programming fundamentals, including control flow and data structures, to build a solid foundation for data analysis; 2) Introduction to data analytics techniques using Python libraries such as NumPy, Pandas, Matplotlib, NLTK, and scikit-learn. Students will apply these techniques to real-world datasets across various industries, focusing on data manipulation, visualization, text analytics, and machine learning.
+
 ## OPIM 3103 -- Business Information Systems (Undergraduate Level)
 
 OPIM 3103 introduces you to Management of Information Systems (MIS) concepts, tools, and techniques used in various functions of a business enterprise. It covers both Microsoft Excel spreadsheets and Microsoft Access database.  
