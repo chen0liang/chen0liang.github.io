@@ -4,6 +4,7 @@ permalink: /award/
 title: "Awards"
 ---
 
+-   The POM J. George Shanthikumar Best Data Science and E-Operations Paper Award Runner-up, 2025
 -   Management Science Distinguished Service Award, 2024
 -   Dean's Ackerman Scholar, UConn School of Business, 2024
 -   Best Paper Nominee, China Summer Workshop on Information Management (CSWIM), 2024
