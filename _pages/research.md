@@ -24,9 +24,9 @@ author_profile: true
 
 -   Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions. 
 -   Chen Liang, Murat Tunç, and Gordon Burtch. Market Punishment of Strategic Generosity: An Empirical Examination of NFT Charity Auctions.
--   Chen Liang, Bowen Lou, Mengwei Qu. COVID-19 and Platform Switching of Multihoming Workers in the Gig Economy.
--   Stan (Chenbo) Shi, Wang Jin, and Chen Liang. Breaking the Glass Ceiling or Breaking Trust: How Does a Female Fraudster Affect Crowdfunding for Female Entrepreneurs?
--   Chen Liang, Jing Peng, Zhuoyan Li, and Ming Yin. The Valuation Paradox of Generative AI: Evidence from Gig Workers.
 -   Tong Shen, Chen Liang, Xinxin Li, and Chunxiao Li. Beyond Automation: The Impact of Robotaxi Services on Ride-Hailing Consumer Behavior.
+-   Chen Liang, Zhuoyan Li, and Ming Yin. AI Disclosure and Content Evaluation.
+-   Chen Liang, Bowen Lou, Mengwei Qu. COVID-19 and Platform Switching of Multihoming Workers in the Gig Economy.
+-   Chen Liang, Jing Peng, Zhuoyan Li, and Ming Yin. The Valuation of Generative AI in Content Creation: Evidence from Gig Workers.
 -   Tong Shen, Chen Liang, Chunxiao Li, Shuliu Yuan, and Bin Gu. AI Versus Human Decision-Making: Evidence from A Large-Scale Randomized Field Experiment.
 
