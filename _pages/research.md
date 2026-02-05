@@ -29,4 +29,4 @@ author_profile: true
 -   Chen Liang, Bowen Lou, Mengwei Qu. COVID-19 and Platform Switching of Multihoming Workers in the Gig Economy.
 -   Chen Liang, Jing Peng, Zhuoyan Li, and Ming Yin. The Valuation of Generative AI in Content Creation: Evidence from Gig Workers.
 -   Tong Shen, Chen Liang, Chunxiao Li, Shuliu Yuan, and Bin Gu. AI Versus Human Decision-Making: Evidence from A Large-Scale Randomized Field Experiment.
-
+-   Ning Wang, and Chen Liang. How to Disclose? Strategic AI Disclosure in Crowdfunding.
